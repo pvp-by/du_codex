@@ -13,7 +13,7 @@ vec2 = {}
 ---@return number
 function vec2.dist(a, b) end
 --- Calculates the squared distance between two points
----@field a vec2 The first point
+---@param a vec2 The first point
 ---@param b vec2 The second point
 ---@return number
 function vec2.dist2(a, b) end
