@@ -1,0 +1,19 @@
+.. lua:class:: MyOrg.Car
+    :module:
+
+
+
+
+
+
+
+    .. lua:method:: test(foo)
+
+
+
+
+
+        :param foo: 
+        :type foo: number
+
+
