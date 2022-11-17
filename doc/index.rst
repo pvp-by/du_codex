@@ -1,5 +1,6 @@
 Deployment documentation!
 =========================
 
-.. lua:autoclass:: MyOrg.Car
+.. lua:autoclass:: Adjustor
+.. lua:autoclass:: LaserEmitter
 
